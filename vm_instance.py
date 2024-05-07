@@ -1,6 +1,6 @@
 from googleapiclient.discovery import build
 
-# Replace with your project ID and zone
+
 project_id = "sudip-try"
 zone = "us-central1-a"
 
